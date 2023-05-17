@@ -1,4 +1,4 @@
-# CLon de google
+# Clonación Interfaz de Google
 
 ## Índice
 *  [1. Introd](https://github.com/ValSalgado09/ClonDeGoogle/edit/main/README.md#1-intro)
