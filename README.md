@@ -22,4 +22,4 @@ En este proyecto me enfoqué en construir la clonación de la interfaz de google
 ****
 
 ## 3.   Objetivo del proyecto
-Aprender a utilizar las etiquetas estándar de HTML5 y estilos de CSS3
+Aprender a utilizar las etiquetas estándar de HTML5 y estilos de CSS3.
