@@ -1,11 +1,10 @@
 # CLon de google
 
 ## Índice
-
-*  [1. Introd](#)
-*  [2. Qué elaboré](#)
-*  [3.   Objetivo del proyectp](#)
-****
+*  [1. Introd](https://github.com/ValSalgado09/ClonDeGoogle/edit/main/README.md#1-intro)
+*  [2. Qué elaboré](https://github.com/ValSalgado09/ClonDeGoogle/edit/main/README.md#2-qu%C3%A9-elabor%C3%A9)
+*  [3.   Objetivo del proyectp](https://github.com/ValSalgado09/ClonDeGoogle/edit/main/README.md#3---objetivo-del-proyecto)
+***
 
 ##  1. Intro 
 
